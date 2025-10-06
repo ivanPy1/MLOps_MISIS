@@ -62,8 +62,8 @@
 ## 📁 Структура репозитория
 ```text
 mlops-course/
-├── homework1/ # Model Validation and Metrics
-├── homework2/ # FastAPI Monitoring
-├── homework3/ # RAG Animation System
+├── homework_1_step5_model_validation_and_metrics / # Model Validation and Metrics
+├── homework_2_step4_monitoring / # FastAPI Monitoring
+├── homework_3_step3_rag / # RAG Animation System
 └── README.md
 ```
