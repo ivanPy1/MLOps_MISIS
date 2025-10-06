@@ -60,8 +60,10 @@
 - Docker (опционально)
 
 ## 📁 Структура репозитория
+```text
 mlops-course/
 ├── homework1/ # Model Validation and Metrics
 ├── homework2/ # FastAPI Monitoring
 ├── homework3/ # RAG Animation System
 └── README.md
+```
